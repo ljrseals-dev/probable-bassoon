@@ -1,3 +1,4 @@
+Copyright © 2026 Lewis James Seals Jr. All rights reserved. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 # Reverb Designer
 
 Design a room or a plate reverb in the browser, read its decay, and save the stereo impulse response (IR) for a DAW or any convolution reverb. Open `index.html`.
